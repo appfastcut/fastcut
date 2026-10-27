@@ -2,6 +2,8 @@
 
 # FastCut
 
+> Este repositório é só o código-fonte aberto (AGPL-3.0). Site, guia e download: **https://fastcut.site**
+
 **A free video editor that runs entirely on your computer.** No account, no watermark, no subscription. Your footage never leaves your machine.
 
 Built for fast, vertical-first editing: drop your clips on the timeline, let FastCut caption them, cut, add voice and effects, and export.
